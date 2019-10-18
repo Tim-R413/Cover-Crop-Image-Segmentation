@@ -1,1 +1,1 @@
-
+This subdirecotry houses the progress and details made for a region based approach to semantic segmentation of the CoverCrop dataset. This approach will make use of the MAsk RCNN framework provided by the [Matterport Github REpository](https://github.com/matterport/Mask_RCNN). 
