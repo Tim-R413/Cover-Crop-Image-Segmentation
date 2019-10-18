@@ -1,0 +1,2 @@
+this folder will house ht eprogress and detaitls concerning a reagion based approach to semantic segmentaion on the covercrop dataset.
+this approach will make use of the Mask RCNN framework as seen from the [Matterport Repository](https://github.com/matterport/Mask_RCNN)
