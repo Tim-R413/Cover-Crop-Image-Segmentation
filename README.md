@@ -9,3 +9,5 @@
 ## Preliminary scope and project objectives
    the intial course of action for this project will be to explore different approaches to Semantic Segmentation. The first bein a region based approach using the Mask RCNN framework from the Matterport Repo. The second will also follow a region based approach using the UNet framework similar to the example that Tensorflow provided. The final notebook will be an attempt to use a Fully Convolutional Network based approach. The progress made with each approach as well as further detatils will be outlined in their respective folders in this repo. 
    
+## UPDATE:
+there are some complications with displaying/ uploading the colab notebooks to the Github sub directories, torubleshooting the issue currently. 
