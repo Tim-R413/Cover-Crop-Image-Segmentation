@@ -1,0 +1,1 @@
+This subdirectory houses the progress made to perform semantic segmentation of the cover crop dataset through use of a region based approach. The UNet model architecture will be implemented for pixel-wise classification of the covercrop species mixtures.
