@@ -11,3 +11,6 @@
    
 ## UPDATE:
 there are some complications with displaying/ uploading the colab notebooks to the Github sub directories, torubleshooting the issue currently. 
+
+## DEC 2019 UPDATE:
+majority of progress is made within the FCN segmenation process [(link here)]()
