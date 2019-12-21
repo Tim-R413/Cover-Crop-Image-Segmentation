@@ -7,7 +7,7 @@ the colab noebook has been revised with code to build binary and multiclass mask
 
 ### The FCN Segmentation Progress for Fall 2019:
 - Decision made to start with a small sample size of 10 images for manual annotation, preprocessing and inital training of a fcn model 
-- All images used are stored in the Image Data Directory repo  
+- All images used are stored in the various Image Data Directory repos  
 - Manual annotations were made with an online annotation tool
 - Preprocessing included minor augmentation/alteration to the images and producing segmentation masks 
 - colab notebooks on performing and testing the creation of segmentation masks are stored in the the Image Preprocessing directory 
